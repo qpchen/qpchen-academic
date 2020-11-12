@@ -10,7 +10,7 @@ role: 计算机科学博士生
 
 # Organizations/Affiliations
 organizations:
-- name: Sun Yat-Sen University
+- name: 中山大学
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
